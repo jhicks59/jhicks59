@@ -9,10 +9,7 @@
 - <b>SpriteKit Practice</b>
   - [An IOS Arcade game built using a SpriteKit Tutorial](https://github.com/jhicks59/Solo-Mission.git)
   - [Calorie Crusher: A unique IOS game developed by a team of 5 including myself](https://github.com/jhicks59/CalorieCrusher.git)
-- <b> UI/UX Design Elements </b>
-  - [Calorie Crusher UI](https://sketch.com/s/252f08c4-c2f9-40e5-a497-d92e4475bb25)
-  - [Olgas Cookbook UI](https://sketch.com/s/6861f69e-831a-4576-b545-afcfdab8a67d)
- 
+    
 <h2> 🌱 I’m currently learning:</h2>
 
 - <b>HealthKit</b>
